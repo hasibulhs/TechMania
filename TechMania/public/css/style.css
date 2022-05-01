@@ -1,0 +1,198 @@
+.custom-login
+{
+    height: 500px;
+    padding-top: 50px;
+    margin-left: 400px;
+}
+
+.custom-reg
+{
+    margin-left: 400px;
+}
+
+img.slider-img
+{
+    height: 400px !important;
+}
+
+.custom-product
+{
+    height: 1000px;
+}
+
+.slider-text
+{
+    background-color: #35443585 !important;
+}
+
+.trending-image
+{
+    height: 100px;
+}
+
+.trening-item
+{
+    float: left;
+    width: 20%;
+}
+
+.trending-wrapper
+{
+    margin: 30px;
+}
+
+.detail-img
+{
+    height: 200px;
+}
+
+.search-box
+{
+    width: 500px !important;
+}
+
+.cart-list-devider
+{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 20px
+}
+
+.detail-img
+{
+    height: 200px;
+}
+
+.search-box
+{
+    width: 500px !important;
+}
+
+body
+{
+	font-family: sans-serif;
+}
+
+.home-text
+{
+	color: green;
+}
+
+.top-nav a.active
+{
+	color:blue!important;
+}
+
+.auth-form
+{
+	background: #e9ffde;
+    border-radius: 20px;
+    padding:20px 50px 50px  50px;
+}
+
+.form-title
+{
+	color: green;
+	font-size: 20px;
+	font-weight: 600;
+	font-family: arial;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.form-group label
+{
+	color: #4c544a;
+}
+
+
+label.invalid
+{
+	color: red;
+	font-size: 13px;
+}
+
+input.invalid
+{
+	border: 1px solid red;
+}
+
+input.success
+{
+	border: 1px solid green;
+}
+
+.profile-nav a
+{
+ text-decoration: none;
+}
+
+.profile-nav .active a
+{
+   color: white!important;
+}
+
+.cart-list-divider
+{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.button3
+{
+    height: 100%;
+    width: 265%;
+    font-size: 20px;
+}
+
+.box
+{
+    display: flex;
+}
+
+/* star rating */
+.rating-css div
+{
+    color: #ffe400;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px 0;
+}
+
+.rating-css input
+{
+    display: none;
+}
+
+.rating-css input + label
+{
+    font-size: 60px;
+    text-shadow: 1px 1px 0 #8f8420;
+    cursor: pointer;
+}
+
+.rating-css input:checked + label ~ label
+{
+    color: #b4afaf;
+}
+
+.rating-css label:active
+{
+    transform: scale(0.8);
+    transition: 0.3s ease;
+}
+
+.checked
+{
+    color: #ffc400;
+}
+/* end of star rating */
+
+.back
+{
+    background-color: #ffc400;
+}
